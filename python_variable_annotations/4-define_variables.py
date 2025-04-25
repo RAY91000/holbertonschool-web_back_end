@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-This module serves as basic example for variable annotation
-for multiple simple types
+This module serves as basic example for variable
+annotation for multiple simple types
 """
 
 
